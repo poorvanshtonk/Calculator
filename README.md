@@ -19,6 +19,6 @@ This project is the starting point of my backend journey, and I’ll be extendin
 ## 🛠 Tech Stack
 
 - **Node.js**
-- Core modules: `http`, `fs` (if used)
+- Core modules: `http`
 
 ---
