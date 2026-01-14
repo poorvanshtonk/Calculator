@@ -1,5 +1,7 @@
 const http = require("http");
 const handler = require("./handler");
+const sumHandler = require("./sum");
+
 
 const server = http.createServer(handler);
 
